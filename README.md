@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupeshmandal
 - 👀 I’m interested in cyber security feild.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m doing my best in this feild.
+- 💞️ I’m doing my best in this field.
 
 
 <!---
